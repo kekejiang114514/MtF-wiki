@@ -15,7 +15,8 @@ title: 刘宏
 总成本约 900 元。
 
 此前简介中写有“可以开具易性症证明”，但当前简介已无相关字样。（如下图）
-{{< watermark "new-jianjie.png" >}}
+
+{{< watermark "new-jianjie.jpg" >}}
 
 ## 挂号与坐诊时间
 
